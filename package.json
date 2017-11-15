@@ -1,0 +1,14 @@
+{
+  "name": "easyproxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yatfung Yueng <ice-4.ever@163.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
